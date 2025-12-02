@@ -1,6 +1,11 @@
 {
-  "name": "n8n-webhook",
+  "name": "n8n-monday-uploader",
+  "version": "1.0.0",
   "dependencies": {
-    "axios": "^1.6.0"
+    "axios": "^1.6.0",
+    "form-data": "^4.0.0"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
